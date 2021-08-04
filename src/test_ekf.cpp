@@ -1,11 +1,10 @@
-// ROS
-#include <ros/ros.h>
-
 // Main ekf
 #include <cassie_description/cassie_model.hpp>
 #include <cassie_estimation/contact_ekf.hpp>
 #include <cassie_estimation/contact_classifier.hpp>
 
+// ROS
+#include <ros/ros.h>
 
 // Logging
 #include <string>

@@ -10,6 +10,7 @@
 #ifndef CONTACT_EKF_HPP
 #define CONTACT_EKF_HPP
 
+// #include "pinocchio/fwd.hpp"
 #include <cassie_description/cassie_model.hpp>
 #include <control_utilities/filters.hpp>
 #include <ros_utilities/ros_utilities.hpp>
